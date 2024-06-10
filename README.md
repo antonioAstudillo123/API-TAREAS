@@ -34,6 +34,10 @@ Obtenemos todas las tareas que tiene un usuario en especifico.
 
 ## Capturas de pantalla 
 [![creando-Tarea.png](https://i.postimg.cc/5tPvmSB3/creando-Tarea.png)](https://postimg.cc/7C2fH7QG)
+[![tarea-por-empresa.png](https://i.postimg.cc/RFyHkCbJ/tarea-por-empresa.png)](https://postimg.cc/gXyjRppG)
+[![tareas-empresas.png](https://i.postimg.cc/FzSLNt2W/tareas-empresas.png)](https://postimg.cc/ZvTRxQYp)
+[![tarea-User.png](https://i.postimg.cc/44Htztm6/tarea-User.png)](https://postimg.cc/jCKLTD62)
+[![validacion.png](https://i.postimg.cc/7YvzX62p/validacion.png)](https://postimg.cc/vDzDZGXz)
 
 
 
