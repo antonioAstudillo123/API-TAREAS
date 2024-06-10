@@ -19,10 +19,10 @@ Si se le añade un segundo valor a la url, solo obtenemos las compañias que coi
 --------------------------------------
 /task/create  -> tipo POST
 Creamos una nueva tarea en el sistema. Debemos mandar los siguientes valores:
-company_id que es el id de la compañia
-name  que es el nombre de la tarea
-description que es la descripción de la tarea
-user_id que es el id del usuario al que se le va asignar la tarea 
+company_id que es el id de la compañia,
+name  que es el nombre de la tarea,
+description que es la descripción de la tarea,
+user_id que es el id del usuario al que se le va asignar la tarea.
 
 Este endpoint realiza una validación para determinar si el usuario al que se intenta asignar una nueva tarea tiene menos de 5 tareas pendientes. Si el usuario ya tiene 5 o más tareas pendientes, no será posible crear una nueva. 
 
