@@ -32,4 +32,8 @@ Este endpoint realiza una validación para determinar si el usuario al que se in
 Obtenemos todas las tareas que tiene un usuario en especifico. 
 
 
+## Capturas de pantalla 
+[![creando-Tarea.png](https://i.postimg.cc/5tPvmSB3/creando-Tarea.png)](https://postimg.cc/7C2fH7QG)
+
+
 
